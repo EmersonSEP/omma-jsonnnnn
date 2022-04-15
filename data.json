@@ -1,0 +1,67 @@
+[
+  {
+    "id": 6,
+    "titulo": "Pizza",
+    "dificuldade": "simples",
+    "ingredientes": [
+      "1 queijo",
+      "1 colher de azeite",
+      "Sal a gosto"
+    ],
+    "preparo": "Quebre o ovo em um copo americano, jogue sal, e leve à frigideira.",
+    "link": "https://google.com",
+    "vegano": false
+  },
+  {
+    "id": 7,
+    "titulo": "Brigadeiro",
+    "dificuldade": "simples",
+    "ingredientes": [
+      "1 queijo",
+      "1 colher de azeite",
+      "Sal a gosto"
+    ],
+    "preparo": "Quebre o ovo em um copo americano, jogue sal, e leve à frigideira.",
+    "link": "https://google.com",
+    "vegano": false
+  },
+  {
+    "id": 8,
+    "titulo": "Pizza",
+    "dificuldade": "simples",
+    "ingredientes": [
+      "1 queijo",
+      "1 colher de azeite",
+      "Sal a gosto"
+    ],
+    "preparo": "Quebre o ovo em um copo americano, jogue sal, e leve à frigideira.",
+    "link": "https://google.com",
+    "vegano": false
+  },
+  {
+    "id": 9,
+    "titulo": "Pizza",
+    "dificuldade": "simples",
+    "ingredientes": [
+      "1 queijo",
+      "1 colher de azeite",
+      "Sal a gosto"
+    ],
+    "preparo": "Quebre o ovo em um copo americano, jogue sal, e leve à frigideira.",
+    "link": "https://google.com",
+    "vegano": false
+  },
+  {
+    "id": 10,
+    "titulo": "Cachorro-quente",
+    "dificuldade": "simples",
+    "ingredientes": [
+      "1 queijo",
+      "1 colher de azeite",
+      "Sal a gosto"
+    ],
+    "preparo": "Quebre o ovo em um copo americano, jogue sal, e leve à frigideira.",
+    "link": "https://google.com",
+    "vegano": false
+  }
+]
